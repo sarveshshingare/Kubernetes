@@ -34,6 +34,7 @@ This guide provides step-by-step instructions for deploying a React application 
 
 ## Dockerizing the React App
 Open your React project folder.
+
 2. **Create a Dockerfile in the root directory of your React app:**
 
    ```dockerfile
